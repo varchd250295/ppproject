@@ -1,0 +1,8 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=6114A58B
+eax=00000000 ebx=00000000 ecx=0028CA6C edx=00000001 esi=0028D51C edi=0028CA6C
+ebp=0028CB58 esp=0028CA40 program=C:\Users\Samuel\Documents\RSA\RSA.exe, pid 5844, thread main
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+0028CB58  6114A58B (0028CBF8, 0028CBF8, 00000004, 00000000)
+End of stack trace
